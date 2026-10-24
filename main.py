@@ -1,6 +1,6 @@
 # the input file should be prepared by hand to avoid including unnecessary triangles
 
-file_lines = open("input.txt").readlines()
+file_lines = open("input.tex").readlines()
 
 class vector_point:
 	x: float
