@@ -1,0 +1,93 @@
+solid 1.1
+ facet normal 0.9672309653794341 -0.2538981284121015 0.0
+  outer loop
+   vertex 2.7 2.05 12.24
+   vertex 4.800000000000001 10.05 10.97
+   vertex 4.800000000000001 10.05 12.24
+  endloop
+ endfacet
+ facet normal 0.9672309653794341 -0.2538981284121015 -0.0
+  outer loop
+   vertex 2.7 2.05 12.24
+   vertex 2.7 2.05 9.3
+   vertex 4.800000000000001 10.05 10.97
+  endloop
+ endfacet
+ facet normal -0.0 -1.0 -0.0
+  outer loop
+   vertex 0 2.05 9.3
+   vertex 2.7 2.05 9.3
+   vertex 0 2.05 12.24
+  endloop
+ endfacet
+ facet normal 0.0 -1.0 0.0
+  outer loop
+   vertex 2.7 2.05 9.3
+   vertex 2.7 2.05 12.24
+   vertex 0 2.05 12.24
+  endloop
+ endfacet
+ facet normal 0.0 0.0 1.0
+  outer loop
+   vertex 0 2.05 12.24
+   vertex 2.7 2.05 12.24
+   vertex 4.800000000000001 10.05 12.24
+  endloop
+ endfacet
+ facet normal -0.0 -0.0 1.0
+  outer loop
+   vertex 0.0 10.05 12.24
+   vertex 0 2.05 12.24
+   vertex 4.800000000000001 10.05 12.24
+  endloop
+ endfacet
+ facet normal -0.0 0.204345145900214 -0.9788989025159954
+  outer loop
+   vertex 4.800000000000001 10.05 10.97
+   vertex 0 2.05 9.3
+   vertex 0 10.05 10.97
+  endloop
+ endfacet
+ facet normal -0.0 0.204345145900214 -0.9788989025159954
+  outer loop
+   vertex 4.800000000000001 10.05 10.97
+   vertex 0 2.05 9.3
+   vertex 0 10.05 10.97
+  endloop
+ endfacet
+ facet normal 0.0 0.20434514590021405 -0.9788989025159955
+  outer loop
+   vertex 0 2.05 9.3
+   vertex 4.800000000000001 10.05 10.97
+   vertex 2.7 2.05 9.3
+  endloop
+ endfacet
+ facet normal -1.0 0.0 0.0
+  outer loop
+   vertex 0 2.05 9.3
+   vertex 0 2.05 12.24
+   vertex 0 10.05 10.97
+  endloop
+ endfacet
+ facet normal -1.0 -0.0 -0.0
+  outer loop
+   vertex 0 2.05 12.24
+   vertex 0.0 10.05 12.24
+   vertex 0 10.05 10.97
+  endloop
+ endfacet
+ facet normal -0.0 1.0 -0.0
+  outer loop
+   vertex 4.800000000000001 10.05 12.24
+   vertex 4.800000000000001 10.05 10.97
+   vertex 0.0 10.05 12.24
+  endloop
+ endfacet
+ facet normal 0.0 1.0 0.0
+  outer loop
+   vertex 4.800000000000001 10.05 10.97
+   vertex 0 10.05 10.97
+   vertex 0.0 10.05 12.24
+  endloop
+ endfacet
+endsolid 1.1

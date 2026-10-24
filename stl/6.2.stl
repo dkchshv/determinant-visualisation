@@ -1,0 +1,86 @@
+solid 6.2
+ facet normal -0.0 -0.0 -1.0
+  outer loop
+   vertex 12.8 13.25 0.0
+   vertex 12.8 11.2 0.0
+   vertex 10.100000000000001 13.25 0.0
+  endloop
+ endfacet
+ facet normal -0.0 -0.0 -1.0
+  outer loop
+   vertex 12.8 11.2 0.0
+   vertex 10.100000000000001 11.2 0.0
+   vertex 10.100000000000001 13.25 0.0
+  endloop
+ endfacet
+ facet normal 0.0 0.0 1.0
+  outer loop
+   vertex 12.8 11.2 2.9399999999999995
+   vertex 12.8 13.25 2.9399999999999995
+   vertex 10.100000000000001 13.25 2.9399999999999995
+  endloop
+ endfacet
+ facet normal 0.0 0.0 1.0
+  outer loop
+   vertex 10.100000000000001 11.2 2.9399999999999995
+   vertex 12.8 11.2 2.9399999999999995
+   vertex 10.100000000000001 13.25 2.9399999999999995
+  endloop
+ endfacet
+ facet normal -1.0 -0.0 -0.0
+  outer loop
+   vertex 10.100000000000001 13.25 0.0
+   vertex 10.100000000000001 11.2 0.0
+   vertex 10.100000000000001 11.2 2.9399999999999995
+  endloop
+ endfacet
+ facet normal -1.0 -0.0 -0.0
+  outer loop
+   vertex 10.100000000000001 13.25 2.9399999999999995
+   vertex 10.100000000000001 13.25 0.0
+   vertex 10.100000000000001 11.2 2.9399999999999995
+  endloop
+ endfacet
+ facet normal 1.0 0.0 0.0
+  outer loop
+   vertex 12.8 11.2 0.0
+   vertex 12.8 13.25 0.0
+   vertex 12.8 11.2 2.9399999999999995
+  endloop
+ endfacet
+ facet normal 1.0 0.0 0.0
+  outer loop
+   vertex 12.8 13.25 0.0
+   vertex 12.8 13.25 2.9399999999999995
+   vertex 12.8 11.2 2.9399999999999995
+  endloop
+ endfacet
+ facet normal -0.0 0.9999999999999999 -0.0
+  outer loop
+   vertex 12.8 13.25 2.9399999999999995
+   vertex 12.8 13.25 0.0
+   vertex 10.100000000000001 13.25 2.9399999999999995
+  endloop
+ endfacet
+ facet normal 0.0 0.9999999999999999 0.0
+  outer loop
+   vertex 12.8 13.25 0.0
+   vertex 10.100000000000001 13.25 0.0
+   vertex 10.100000000000001 13.25 2.9399999999999995
+  endloop
+ endfacet
+ facet normal 0.0 -0.9999999999999999 0.0
+  outer loop
+   vertex 12.8 11.2 0.0
+   vertex 12.8 11.2 2.9399999999999995
+   vertex 10.100000000000001 11.2 2.9399999999999995
+  endloop
+ endfacet
+ facet normal -0.0 -0.9999999999999999 -0.0
+  outer loop
+   vertex 10.100000000000001 11.2 0.0
+   vertex 12.8 11.2 0.0
+   vertex 10.100000000000001 11.2 2.9399999999999995
+  endloop
+ endfacet
+endsolid 6.2
