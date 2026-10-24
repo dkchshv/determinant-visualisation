@@ -1,0 +1,86 @@
+solid Determinant
+ facet normal 0.355524183817568 -0.929129558290524 0.10159142991270327
+  outer loop
+   vertex 2.7 2.05 9.3
+   vertex 0 0 0
+   vertex 8 3.2 1.27
+  endloop
+ endfacet
+ facet normal 0.355524183817568 -0.929129558290524 0.10159142991270327
+  outer loop
+   vertex 2.7 2.05 9.3
+   vertex 8 3.2 1.27
+   vertex 10.7 5.25 10.57
+  endloop
+ endfacet
+ facet normal 0.08236953634905789 0.18288568359229151 -0.9796775419588946
+  outer loop
+   vertex 0 0 0
+   vertex 2.1 8 1.67
+   vertex 8 3.2 1.27
+  endloop
+ endfacet
+ facet normal 0.0823695363490579 0.18288568359229151 -0.9796775419588944
+  outer loop
+   vertex 8 3.2 1.27
+   vertex 2.1 8 1.67
+   vertex 10.1 11.2 2.94
+  endloop
+ endfacet
+ facet normal 0.9516626859335586 -0.2014036364910637 -0.23189374163590615
+  outer loop
+   vertex 10.1 11.2 2.94
+   vertex 10.7 5.25 10.57
+   vertex 8 3.2 1.27
+  endloop
+ endfacet
+ facet normal 0.9516626859335585 -0.2014036364910639 -0.23189374163590626
+  outer loop
+   vertex 12.8 13.25 12.24
+   vertex 10.7 5.25 10.57
+   vertex 10.1 11.2 2.94
+  endloop
+ endfacet
+ facet normal -0.35552418381756784 0.929129558290524 -0.10159142991270334
+  outer loop
+   vertex 4.800000000000001 10.05 10.97
+   vertex 12.8 13.25 12.24
+   vertex 10.1 11.2 2.94
+  endloop
+ endfacet
+ facet normal -0.3555241838175679 0.929129558290524 -0.10159142991270337
+  outer loop
+   vertex 10.1 11.2 2.94
+   vertex 2.1 8 1.67
+   vertex 4.800000000000001 10.05 10.97
+  endloop
+ endfacet
+ facet normal -0.9516626859335585 0.20140363649106371 0.2318937416359062
+  outer loop
+   vertex 0 0 0
+   vertex 2.7 2.05 9.3
+   vertex 2.1 8 1.67
+  endloop
+ endfacet
+ facet normal -0.9516626859335587 0.20140363649106377 0.23189374163590626
+  outer loop
+   vertex 4.800000000000001 10.05 10.97
+   vertex 2.1 8 1.67
+   vertex 2.7 2.05 9.3
+  endloop
+ endfacet
+ facet normal -0.08236953634905785 -0.18288568359229151 0.9796775419588944
+  outer loop
+   vertex 2.7 2.05 9.3
+   vertex 10.7 5.25 10.57
+   vertex 12.8 13.25 12.24
+  endloop
+ endfacet
+ facet normal -0.08236953634905786 -0.18288568359229151 0.9796775419588944
+  outer loop
+   vertex 2.7 2.05 9.3
+   vertex 12.8 13.25 12.24
+   vertex 4.800000000000001 10.05 10.97
+  endloop
+ endfacet
+endsolid Determinant
