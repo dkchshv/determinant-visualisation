@@ -281,4 +281,5 @@ Folder: 9.2
 \operatorname{triangle}\left(\left(0,B.y,B.z\right),\left(0,B.y+A.y+C.y,B.z\right),\left(0,B.y+A.y+C.y,B.z+C.z\right)\right)
 \operatorname{triangle}\left(\left(0,B.y+A.y+C.y,B.z+C.z\right),B+\left(0,C.y+A.y,0\right),\left(0,B.y+C.y+A.y,B.z\right)\right)
 \operatorname{triangle}\left(B,B+\left(0,C.y+A.y,0\right),\left(0,B.y+C.y+A.y,B.z\right)\right)
-\operatorname{triangle}\left(B,\left(0,B.y+C.y+A.y,B.z\right),\left(0,B.y,B.z\right)\right))
+\operatorname{triangle}\left(B,\left(0,B.y+C.y+A.y,B.z\right),\left(0,B.y,B.z\right)\right)
+Folder: END
